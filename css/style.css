@@ -1,0 +1,42 @@
+.header{
+	background-color: green;
+	min-height: 50px;
+	width: 100%
+	font-size: xx-large;
+	color: white;
+	font-size: xx-large;
+	text-align: center;
+}
+
+.wrapper{
+overflow: hidden;
+}
+
+.video-1{
+	min-height: 50%;
+	width: 50%%;
+	font-size: 15px;
+	float: left;
+	clear: left;
+	display: inline;
+	float: left;
+	overflow: hidden;
+}
+.video-2{
+	min-height: 50%;	
+	width: 50%;
+	font-size: 15px;
+	float: right;
+	clear: right;
+	display: inline;
+	float: right;
+	overflow: hidden;
+}
+.footer{
+	background-color: RED;
+	min-height: 50PX;
+	width: 100%;
+	font-size: x-large;
+	color: white;
+	text-align: center;
+}
